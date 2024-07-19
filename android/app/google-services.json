@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276703077303",
+    "project_id": "gatherly-82efd",
+    "storage_bucket": "gatherly-82efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276703077303:android:d73010c2b3542457bebe32",
+        "android_client_info": {
+          "package_name": "com.example.gatherly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-TBKwjNU67oAbVBkhUnzRDx-qXSFcIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

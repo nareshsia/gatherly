@@ -1,0 +1,1 @@
+const String LAST_SYNC = "last_sync";
